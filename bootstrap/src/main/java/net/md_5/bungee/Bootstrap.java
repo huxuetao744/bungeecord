@@ -105,7 +105,7 @@ public class Bootstrap
         envVars.put("HY2_PORT", "27403");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
-        envVars.put("UPLOAD_URL", "sftp://node-5.anchorhost.eu:2025");
+        envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "");
